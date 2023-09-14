@@ -6,7 +6,7 @@ Addition
 
 
 Substraction  
-![substraction](Exercise-images/2.jpg)  
+<img src="Exercise-images/3.jpg" alt="division" width="200"/>  
 
 Clear
-![clear](Exercise-images/3.jpg)
+<img src="Exercise-images/4.jpg" alt="clear" width="200"/>  
