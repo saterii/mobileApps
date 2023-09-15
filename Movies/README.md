@@ -5,5 +5,6 @@ ListScreen component
 
   
 DetailScreen component  
+  
 <img src="Exercise-images/DetailScreen.png" alt="DetailScreen" width="200"/>  
 
