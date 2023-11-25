@@ -17,12 +17,12 @@ const theme = createTheme({
 });
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAPiu4MjFzFUHlRxA2B0ZxGwsnDiLWVoVo",
-  authDomain: "shoppinglist-c2ace.firebaseapp.com",
-  projectId: "shoppinglist-c2ace",
-  storageBucket: "shoppinglist-c2ace.appspot.com",
-  messagingSenderId: "770673269640",
-  appId: "1:770673269640:web:272c554da9c9d27f4c383d"
+  apiKey: "asd",
+  authDomain: "asd",
+  projectId: "asd",
+  storageBucket: "asd",
+  messagingSenderId: "asd",
+  appId: "asd"
 };
 
 const app = initializeApp(firebaseConfig);
