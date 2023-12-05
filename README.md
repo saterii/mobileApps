@@ -18,3 +18,8 @@ I think the workload is what is to be expected from a 5ect course.
 The evaluation is good, because it encourages the students to create a end project and learn more by doing so if they want to achieve the grade of 5.
 ### Give a rating number from 1-5 (5 == excellent) to this course at overall  
 5
+### Self evaluation
+I ran out of steam mid-course, and completed most of the tasks in a short period of time because of that. I feel like I learned what the course was meant to teach, but due to a lack of energy to create an end project I didn't achieve my initial goal of grade 5. :(  
+
+    
+Overall, I found this course to be really fun and it made the contents of it seem really interesting, and the teacher was always willing and happy to answer any question and help with any problem (no matter how stupid :D), so big thanks to you!
