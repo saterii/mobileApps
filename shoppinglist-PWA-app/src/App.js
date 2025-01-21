@@ -17,7 +17,7 @@ const theme = createTheme({
 });
 
 const firebaseConfig = {
-  apiKey: "secret",
+  apiKey: "asd",
   authDomain: "asd",
   projectId: "asd",
   storageBucket: "asd",
